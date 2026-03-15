@@ -7,3 +7,17 @@ matplotlib
 streamlit
 scikeras
 nltk
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly==5.24.1
+streamlit==1.19.0
+altair==4.2.2
+joblib
+shap
+xgboost
+lightgbm
+openpyxl
